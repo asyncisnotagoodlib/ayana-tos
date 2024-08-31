@@ -1,3 +1,9 @@
+---
+title: Term of Service | Zeppy
+layout: template
+filename: ToS.md
+--- 
+
 # Terms of Service
 
 **Last Updated: 31 August 2024**
