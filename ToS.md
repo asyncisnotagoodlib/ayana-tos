@@ -22,7 +22,7 @@ Zeppy (referred to as "the Bot") provides various functionalities designed to en
 **4. Data Collection and Privacy**
 
 - **Data Collection**: The Bot may collect information such as your Discord username and any data you provide through commands. This data is used to enhance your experience and for operational purposes.
-- **Privacy Policy**: For detailed information on how we handle your data, please refer to our Privacy Policy.
+- **Privacy Policy**: For detailed information on how we handle your data, please refer to our [Privacy Policy](Privacy Policy.md).
 
 **5. Content and Intellectual Property**
 
