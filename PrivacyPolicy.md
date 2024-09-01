@@ -52,6 +52,6 @@ We may update this Privacy Policy from time to time. Any changes will be effecti
 
 **8. Contact Us**
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [Your Contact Information].
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [Our support server](https://discord.gg/2HthVB9FEv).
 
-By using Zeppy, you acknowledge that you have read and understood this Privacy Policy.
+By using Ayana, you acknowledge that you have read and understood this Privacy Policy.
