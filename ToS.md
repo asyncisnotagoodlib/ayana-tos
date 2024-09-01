@@ -7,7 +7,7 @@ Welcome! By using our bot, you agree to abide by the following terms and conditi
 
 **1. Introduction**
 
-Zeppy (referred to as "the Bot") provides various functionalities designed to enhance your Discord experience. By accessing or using the Bot, you agree to these Terms of Service and our Privacy Policy. 
+Ayana (referred to as "the Bot") provides various functionalities designed to enhance your Discord experience. By accessing or using the Bot, you agree to these Terms of Service and our Privacy Policy. 
 
 **2. User Responsibilities**
 
@@ -33,7 +33,7 @@ Zeppy (referred to as "the Bot") provides various functionalities designed to en
 **6. Liability and Disclaimers**
 
 - **No Warranty**: The Bot is provided "as is" without warranties of any kind. We do not guarantee the accuracy, reliability, or completeness of the Bot’s functionality.
-- **Limitation of Liability**: In no event shall Zeppy be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the Bot.
+- **Limitation of Liability**: In no event shall Ayana be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the Bot.
 
 **7. Termination and Suspension**
 
@@ -50,4 +50,4 @@ Zeppy (referred to as "the Bot") provides various functionalities designed to en
 
 - **Support**: If you have any questions about these Terms of Service or need support, please contact us at [Our support server](https://discord.gg/2HthVB9FEv).
 
-By using Zeppy, you acknowledge that you have read, understood, and agree to these Terms of Service.
+By using Ayana, you acknowledge that you have read, understood, and agree to these Terms of Service.
